@@ -1,0 +1,29 @@
+mothod: post
+url:
+第一种测试场景场景:
+  data: {}
+  check:
+    msg:
+    success:
+    code:
+
+第二场测试场景:
+  data:
+  check:
+    msg:
+    code:
+    success:
+
+第三场测试场景:
+  data:
+  check:
+    msg:
+    code:
+    success:
+
+第四场测试场景:
+  data:
+  check:
+    msg:
+    code:
+    success:
